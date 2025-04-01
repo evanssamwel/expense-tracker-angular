@@ -1,11 +1,8 @@
 # About Expense Tracker
 
-This was app was build with the intention of providing a clean and simple responsive web app for entering and managing expenses. The app was build while keeping material design guidlines in mind. Feel free to reach out with any feedback. 
+This was app was build with the intention of providing a clean and simple responsive web app for entering and managing expenses. 
 
 
-## Find app live here
-
-https://expense-tracker-e0028.firebaseapp.com/
 
 # Expense Tracker
 
